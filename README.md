@@ -18,12 +18,4 @@ A simple Python command-line application for managing tasks. It allows users to 
 - Search tasks by title or due date.
 - Export tasks to a CSV file.
   
-## Assumptions and Known Limitations
 
-- The program doesn't validate user inputs beyond basic checks (e.g., date format is not enforced).
-- Deleting tasks by due date assumes that the due date is unique, which may not always be the case.
-  
-
----
-
-You can copy and paste this into your `README.md` file. Feel free to adjust the details (like the repository URL or assumptions) based on your project’s specific requirements.
