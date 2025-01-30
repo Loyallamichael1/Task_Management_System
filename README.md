@@ -17,5 +17,8 @@ A simple Python command-line application for managing tasks. It allows users to 
 - Delete tasks by title or due date.
 - Search tasks by title or due date.
 - Export tasks to a CSV file.
+
+- Loom Video
+- https://www.loom.com/share/cc6ef715bfd849cf9aad0eb84e610111?sid=d81e70cf-6bc4-414a-809a-6a730c51bd12
   
 
